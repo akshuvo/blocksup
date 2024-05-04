@@ -1,3 +1,8 @@
+/******/ (() => { // webpackBootstrap
+var __webpack_exports__ = {};
+/*!*****************************!*\
+  !*** ./src/block-b/view.js ***!
+  \*****************************/
 /**
  * Use this file for JavaScript code that you want to run in the front-end
  * on posts/pages that contain this block.
@@ -21,5 +26,8 @@
  */
 
 /* eslint-disable no-console */
-console.log( 'Hello World! (from create-block-blocksup block ) a' );
+console.log('Hello World! (from create-block-blocksup block) b');
 /* eslint-enable no-console */
+/******/ })()
+;
+//# sourceMappingURL=view.js.map

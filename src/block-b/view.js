@@ -21,5 +21,5 @@
  */
 
 /* eslint-disable no-console */
-console.log( 'Hello World! (from create-block-blocksup block)' );
+console.log( 'Hello World! (from create-block-blocksup block) b' );
 /* eslint-enable no-console */
